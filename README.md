@@ -3,17 +3,13 @@
 # Overview  
 This is a GUI application to convert a PDF file into an image PNG file through simple steps.
 
-
 <div align="center">  
-
-<img src="https://www.freepngimg.com/thumb/python_logo/6-2-python-logo-free-png-image.png" alt="drawing" width="100px"/>
-
-# App Python Project
-
-![image](https://img.shields.io/badge/AppVersion-1.0.0-yellown)![image](https://img.shields.io/badge/python-3.7.0-red)![image](https://img.shields.io/badge/tkinter-latest-green)
+![pdf2img](https://user-images.githubusercontent.com/87378628/135120383-b7200cf6-6113-4861-b92d-870120a93c15.png)
 </div>
 
 # Usage and set up
+![package](https://user-images.githubusercontent.com/87378628/135120499-f13dedca-080a-443f-9520-d1633b441c96.png)
+
 PDF2IMG GUI App needs the following Python packages to be installed: 
 pdf2image
 tkinter
@@ -22,4 +18,13 @@ PIL
 You can install them using pip install -r requirements.txt. 
 
 # How to use
-After running the code, a GUI window will appear. If we paste the file location of the PDF file into the entry box and press Convert, the app will automatically convert into an image and save in the folder including the app.
+After running the code, a GUI window will appear. 
+![display](https://user-images.githubusercontent.com/87378628/135120639-1e6260f3-c5cf-42d6-b39e-a7f42e97bfa5.png)
+
+
+If we paste the file location of the PDF file into the entry box and press Convert, the application will automatically convert into an image and save in the folder including the app.
+![success](https://user-images.githubusercontent.com/87378628/135120737-e3c55302-e91c-498c-8038-8b0acab7095c.png)
+
+
+However, if no PDF file matching with your file location is found, there will be a message box to let you know that.
+![nopdffound](https://user-images.githubusercontent.com/87378628/135120899-979452ca-bcfb-4cb7-a889-3f60a1a70070.png)
