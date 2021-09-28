@@ -3,17 +3,15 @@
 # Overview  
 This is a GUI application to convert a PDF file into an image PNG file through simple steps.
 
-<div align="center">  
 ![pdf2img](https://user-images.githubusercontent.com/87378628/135120383-b7200cf6-6113-4861-b92d-870120a93c15.png)
-</div>
 
 # Usage and set up
 ![package](https://user-images.githubusercontent.com/87378628/135120499-f13dedca-080a-443f-9520-d1633b441c96.png)
 
 PDF2IMG GUI App needs the following Python packages to be installed: 
-pdf2image
-tkinter
-PIL 
+- pdf2image
+- tkinter
+- PIL 
 
 You can install them using pip install -r requirements.txt. 
 
