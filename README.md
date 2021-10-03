@@ -16,7 +16,7 @@ PDF2IMG GUI App needs the following Python packages to be installed:
 You can install them using pip install -r requirements.txt. 
 
 # How to use
-After running the code, a GUI window will appear. 
+After running the file main.py, a GUI window will appear. 
 ![display](https://user-images.githubusercontent.com/87378628/135120639-1e6260f3-c5cf-42d6-b39e-a7f42e97bfa5.png)
 
 
