@@ -1,9 +1,4 @@
 # Converting PDF file to Image Python Project
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
 
 # Overview  
 This is a GUI application to convert a PDF file into an image PNG file through simple steps.
@@ -18,7 +13,7 @@ PDF2IMG GUI App needs the following Python packages to be installed:
 - tkinter
 - PIL 
 
-You can install them using pip install -r requirements.txt. 
+You can install them using ```pip install -r requirements.txt.```
 
 # How to use
 After running the file main.py, a GUI window will appear. 
