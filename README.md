@@ -21,7 +21,7 @@ After running the file main.py, a GUI window will appear.
 
 
 If we paste the file location of the PDF file into the entry box and press Convert, the application will automatically convert into an image and save in the folder including the app.
-![success](https://user-images.githubusercontent.com/87378628/135120737-e3c55302-e91c-498c-8038-8b0acab7095c.png)
+![success](https://user-images.githubusercontent.com/87378628/135741075-bd6c7ff7-e56e-4f21-8615-b1622c5b7782.png)
 
 
 However, if no PDF file matching with your file location is found, there will be a message box to let you know that.
